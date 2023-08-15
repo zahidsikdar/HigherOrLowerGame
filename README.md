@@ -1,0 +1,2 @@
+# HigherOrLowerGame
+In the "Higher or Lower" game, you use followers to help guess if the next number will be bigger or smaller. As you play, you make choices to move ahead and get high scores. It's easy to understand but also really interesting. You use your gut feeling and thinking to decide if the next number will be "higher" or "lower." The goal is to keep getting the guesses right. The game is simple and fun, making it a cool way to think about numbers and try to do better each time you play.
